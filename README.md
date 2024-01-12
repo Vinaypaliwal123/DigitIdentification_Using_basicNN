@@ -2,7 +2,6 @@
 
 Hello, I'm Vinay Paliwal! This project is a simple implementation of a neural network for number detection. The neural network is implemented from scratch using numpy, pandas, and matplotlib. The goal of this project is to accurately detect numbers in images. If you find this project helpful, please consider giving it a star on GitHub!
 
-Sure, here's your GitHub README file with added self-promotion:
 
 ```markdown
 
